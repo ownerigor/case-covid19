@@ -40,7 +40,7 @@ GET /countries
 | `deaths_max`      | `int`    | **Opcional**. Número máximo de mortos.                         |
 | `confirmed_min`   | `int`    | **Opcional**. Número mínimo de casos confirmados.             |
 | `confirmed_max`   | `int`    | **Opcional**. Número máximo de casos confirmados.             |
-| `sort`            | `string` | **Opcional**. Campo pelo qual deseja ordenar os resultados (ex: confirmed, deaths, recovered). |
+| `sort`            | `string` | **Opcional**. Campo pelo qual deseja ordenar os resultados (ex: confirmed, deaths, refuses). |
 
 ### Exemplo de Requisição
 
